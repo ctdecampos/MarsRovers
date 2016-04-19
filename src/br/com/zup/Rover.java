@@ -13,7 +13,6 @@ public class Rover {
 		defineCodigoParaPontosCardeais(pontoCardeal);
 		this.x = x;
 		this.y = y;
-
 	}
 
 	// Traduz o código do ponto cardeal para uma descrição
